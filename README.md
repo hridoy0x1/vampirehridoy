@@ -1,9 +1,15 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm K.M. RUKUNUZZAMAN</h1>
-<h3 align="center"> Android Apps developer master of Java</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello%2C+I'M+RUKUNUZZAMAN;MOBILE+APPS+DEVELOPER;STUDYING+COMPUTER+SCIENCE;YOU+CAN+FOLLOW+MY+PROFILE;)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vampirehridoy&label=Profile%20views&color=0e75b6&style=flat" alt="vampirehridoy" /> </p>
+![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)](https://rishavchanda.io)
+
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+
+<a href="https://github.com/vampirehridoy"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=vampirehridoy&theme=monokai"></a>
+
+</p>
+
+<p align="center">
+
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/rukusprotfolio/](https://sites.google.com/view/rukusprotfolio/)
 
