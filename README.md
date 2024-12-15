@@ -1,11 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello%2C+I'M+RUKUNUZZAMAN;MOBILE+APPS+DEVELOPER;STUDYING+COMPUTER+SCIENCE;YOU+CAN+FOLLOW+MY+PROFILE;)](https://git.io/typing-svg)
 
-![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)](https://rishavchanda.io)
-
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 
 <a href="https://github.com/vampirehridoy"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=vampirehridoy&theme=monokai"></a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vampirehridoy&label=Profile%20views&color=0e75b6&style=flat" alt="vampirehridoy" /> 
 </p>
 
 <p align="center">
