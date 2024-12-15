@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello%2C+I'M+RUKUNUZZAMAN;MOBILE+APPS+DEVELOPER;STUDYING+COMPUTER+SCIENCE;YOU+CAN+FOLLOW+MY+PROFILE;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=HELLO%2C+I'M+RUKUNUZZAMAN;MOBILE+APPS+DEVELOPER;STUDYING+COMPUTER+SCIENCE;YOU+CAN+FOLLOW+MY+PROFILE;)](https://git.io/typing-svg)
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 
