@@ -2,7 +2,7 @@
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 
-<a href="https://github.com/vampirehridoy"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=vampirehridoy&theme=monokai"></a>
+<a href="https://github.com/hridoy0x1"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=vampirehridoy&theme=monokai"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vampirehridoy&label=Profile%20views&color=0e75b6&style=flat" alt="vampirehridoy" /> 
 </p>
