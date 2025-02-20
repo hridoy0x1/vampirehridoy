@@ -2,9 +2,9 @@
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 
-<a href="https://github.com/hridoy0x1"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=vampirehridoy&theme=monokai"></a>
+<a href="https://github.com/hridoy0x1"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=hridoy0x1&theme=monokai"></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vampirehridoy&label=Profile%20views&color=0e75b6&style=flat" alt="vampirehridoy" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hridoy0x1&label=Profile%20views&color=0e75b6&style=flat" alt="hridoy0x1" /> 
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://kaggle.com/kmrukunuzzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kmrukunuzzaman" height="30" width="40" /></a>
 <a href="https://instagram.com/vampire.hridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vampire.hridoy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vampire.hridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vampire.hridoy" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hridoy0x1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vampire.hridoy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
